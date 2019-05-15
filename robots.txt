@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://agheesohqu.laurakneeshaw.com/sitemap.xml
